@@ -9,3 +9,4 @@ Systematic solutions to Rosalind bioinformatics problems, implemented in Python.
 - [x] INI3: Strings and Lists
 - [x] INI4: Conditions and Loops
 - [x] INI5: Working with Files
+- [x] INI6: Dictionaries
